@@ -1,0 +1,5 @@
+C:\DSistribuidos\losDistribuidos\WCFAtencionPedidoGas\bin\WCFAtencionPedidoGas.dll
+C:\DSistribuidos\losDistribuidos\WCFAtencionPedidoGas\bin\WCFAtencionPedidoGas.pdb
+C:\DSistribuidos\losDistribuidos\WCFAtencionPedidoGas\obj\Debug\WCFAtencionPedidoGas.csprojResolveAssemblyReference.cache
+C:\DSistribuidos\losDistribuidos\WCFAtencionPedidoGas\obj\Debug\WCFAtencionPedidoGas.dll
+C:\DSistribuidos\losDistribuidos\WCFAtencionPedidoGas\obj\Debug\WCFAtencionPedidoGas.pdb
